@@ -12,6 +12,6 @@ for( i=1;i<=n;i++)
 fact = fact * i;
 }
 cout<<"Factorial is : "<<fact;
-
+return 0 ;
 
 }
