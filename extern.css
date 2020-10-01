@@ -1,0 +1,23 @@
+p.normal {
+  font-style: normal;
+  margin:20px;
+  font-size:70px;
+  background-color:skyblue;
+  font-color:white;
+}
+
+p.italic {
+  font-style: italic;
+  margin: 20px;
+  font-size:50px;
+}
+
+p.oblique {
+  font-style: oblique;
+  margin: 20px;
+  font-size:40px;
+  
+}
+body{
+ background-color: yellow;
+ }
